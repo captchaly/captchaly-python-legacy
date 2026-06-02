@@ -1,7 +1,7 @@
 # Captchaly Python Module
 Captchaly is a fast, reliable, and affordable CAPTCHA solving with a powerful API. Ensure seamless automation and efficiency while we handle the challenges.
 
-This SDK is made by myself, expect bugs.
+This SDK is made by myself, expect bugs. I don't maintain this often.
 
 ## Installation
 You can install the Captchaly Python Module with Pip:
