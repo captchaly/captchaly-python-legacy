@@ -1,3 +1,12 @@
+># **⚠️ This Repository Is Outdated**
+>
+> This repository was created as version **1.0.0** Python SDK for **Captchaly.com**, created by **@heav33n**.
+>
+> An official SDK is now available and is actively maintained at [https://github.com/captchaly/captchaly-python](https://github.com/captchaly/captchaly-python) with more features and intergrations.
+>
+> Thank you to **heav33n** for creating this repo.
+
+
 # Captchaly Python Module
 Captchaly is a fast, reliable, and affordable CAPTCHA solving with a powerful API. Ensure seamless automation and efficiency while we handle the challenges.
 
